@@ -3,8 +3,8 @@
 |Name|Fgst.Nr.|Inventory designation|Track|Links per side|Description|Panzer Tracts source|
 |----|--------|--------------|-----|--------------|-----------|--------------------|
 |Panzer I Ausf. F                                      | 150301 to 15330                    | VK 18.01     | Kgs 61/500/130                                  | 65  | Dry pin                              |  01-2 |
-|Panzer I Ausf. B                                      |  **                                | **           | Kgs 67/280/90                                   | **  |                                      | **    |
-|Panzer I Ausf. C                                      |  **                                | **           | Kgs 62/290/90                                   | **  |                                      | **    |
+|Panzer I Ausf. B                                      |  **                                | **           | Kgs 67/280/90                                   | **  | *                                    | **    |
+|Panzer I Ausf. C                                      |  **                                | **           | Kgs 62/290/90                                   | **  | *                                    | **    |
 |Panzer II Ausf. B                                     |  **                                | **           | Kgs 67/300/90                                   | **  | 285mm wide with 90mm pitch           | **    |
 |Panzer II Ausf. D                                     | 27001 to 27085                     | Sd.Kfz.121   | Kgs 61/300/100                                  | *   | *                                    |  02-3 |
 |Panzer II Ausf. E                                     | 27801 to 27807                     | Sd.Kfz.121   | Kgs 49/300/175                                  | *   | *                                    |  02-3 |
