@@ -23,6 +23,9 @@
 |Panzer IV Ausf. J                                     | ~86394 to 86573 and above ~89541   | Sd.Kfz.161/2 | Kgs 61/400/120                                  |  99 | Dry pin                              |    04 |      ** |
 |Panzerkampfwagen Panther (7.5cm) Ausf.G               | 120301-, 124301-, 128301-          | Sd.Kfz.171   | Kgs 64/660/150                                  |  87 | Dry pin                              |  05-3 |   5-208 |
 |"Marder II" Panzerjaeger II fuer 7.5cm Pak 40/2       | 28001 to 29438                     | Sd.Kfz.131   | Kgs 67/300/90                                   | 108 | Dry pin                              |  07-2 |   7-135 |
+|Jagdpanzer IV Ausf.F                                  | 320001 to 321000                   | Sd.Kfz.162   | Kgs 61/400/120                                  |  99 | Dry pin                              |  09-2 |  9-2-37 |
+|Panzer IV/70 (V)                                      | 320651 to 321000, 329001 to 329700 | Sd.Kfz.162   | Kgs 61/400/120                                  |  99 | Dry pin                              |  09-2 |  9-2-58 |
+|Panzer IV/70 (A)                                      | 120301 to 120600                   | *            | Kgs 61/400/120                                  |  99 | Dry pin                              |  09-2 |  9-2-59 |
 |Geschuetzwagen IVb fuer 10.5 cm le.FH.18/1 (Sf.)      | 150631 to 150640                   | Sd.Kfz.165/1 | Kgs 61-400/120                                  |  89 | Dry pin                              |  10-1 |  10-1-9 |
 |"Wespe" Geschuetzwagen fuer 10.5 cm le.F.H.18/2 (Sf.) | 31001 to 32185                     | Sd.Kfz.124   | Kgs 67-300/90                                   | 108 | Dry pin                              |  10-1 | 10-1-21 |
 
@@ -31,15 +34,15 @@
 
 ## Books
 
-| Title                                                                                                                      | Number |
-|----------------------------------------------------------------------------------------------------------------------------|--------|
-| PANZER TRACTS No.1-2 Panzerkampfwagen I Kl.Pz.Bef.Wg. to VK 18.01                                                          |   01-2 |
-| PANZER TRACTS No.2-2 Panzerkampfwagen II Ausf.G, H, J, L and M development and production from 1938 to 1943                |   02-2 |
-| **                                                                                                                         |   02-3 |
-| **                                                                                                                         |   04   |
-| PANZER TRACTS No.5-3 Panzerkampfwagen "Panther" Ausfuehrung G                                                              |   05-3 |
-| PANZER TRACTS No.7-2 Panzerjaeger (7.62cm F.K.(r) auf gp.Sfl. to Marder 38T) development and employment from 1941 and 1943 |   07-2 |
-| **                                                                                                                         |   10-1 |
-
+| Title                                                                                                                             | Number |
+|-----------------------------------------------------------------------------------------------------------------------------------|--------|
+| PANZER TRACTS No.1-2 Panzerkampfwagen I Kl.Pz.Bef.Wg. to VK 18.01                                                                 |   01-2 |
+| PANZER TRACTS No.2-2 Panzerkampfwagen II Ausf.G, H, J, L and M development and production from 1938 to 1943                       |   02-2 |
+| **                                                                                                                                |   02-3 |
+| **                                                                                                                                |   04   |
+| PANZER TRACTS No.5-3 Panzerkampfwagen "Panther" Ausfuehrung G                                                                     |   05-3 |
+| PANZER TRACTS No.7-2 Panzerjaeger (7.62cm F.K.(r) auf gp.Sfl. to Marder 38T) development and employment from 1941 and 1943        |   07-2 |
+| PANZER TRACTS No.9-2 Jagdpanzer - Jagdpanzer IV, Panzer IV/70(V) and Panzer IV/70(A) development and production from 1943 to 1945 |   09-2 |
+| **                                                                                                                                |   10-1 |
 
 **pending
