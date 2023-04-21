@@ -2,7 +2,10 @@
 
 |Name|Fgst.Nr.|Inventory designation|Track|Links per side|Description|Panzer Tracts source|Page|
 |----|--------|---------------------|-----|--------------|-----------|--------------------|----|
-|Panzerkampfwagen I Ausfuehrung F                      | 150301 to 15330                    | VK 18.01     | Kgs 61/500/130                                  | 65  | Dry pin                              |  01-2 |   1-170 |
+|Kleiner Panzerbefehlswagen                            | 9406 to 15168                      | Sd.Kfz.265   | Kgs 67/280/90                                   | 100 | Dry pin 260 (275)                    |  01-2 |   1-120 |
+|"L.K.A.1" - Leichte Kampfwagen Ausland                | *                                  | *            | Kgs 67/280/90                                   | 100 | Dry pin                              |  01-2 |   1-145 |
+|Panzerkampfwagen I (MG) Ausfuehrung C                 | 150101 to 1501140                  | VK 6.01      | Kgs 62/290/90                                   |  89 | Dry pin                              |  01-2 |   1-158 |
+|Panzerkampfwagen I (MG) Ausfuehrung F                 | 150301 to 15330                    | VK 18.01     | Kgs 61/500/130                                  | 65  | Dry pin                              |  01-2 |   1-170 |
 |Panzer I Ausf. B                                      |  **                                | **           | Kgs 67/280/90                                   | **  | *                                    | **    |      ** |
 |Panzer I Ausf. C                                      |  **                                | **           | Kgs 62/290/90                                   | **  | *                                    | **    |      ** |
 |Panzerkampfwagen II Ausf.B                            | 27101 to 27250                     | Sd.Kfz.122   | Kgs 67/300/90                                   | 108 | Dry pin, 285mm wide with 90mm pitch  |  02-3 |  2-3-39 |
