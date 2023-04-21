@@ -1,7 +1,7 @@
 # Panzer Tracts facts compilation
 
 |Name|Fgst.Nr.|Inventory designation|Track|Links per side|Description|Panzer Tracts source|Page|
-|----|--------|---------------------|-----|--------------|-----------|--------------------|----|
+|----|--------|---------------------|-----|--------------:|-----------|--------------------:|----:|
 |Kleiner Panzerbefehlswagen                            | 9406 to 15168                      | Sd.Kfz.265   | Kgs 67/280/90                                   | 100 | Dry pin 260 (275)                    |  01-2 |   1-120 |
 |"L.K.A.1" - Leichte Kampfwagen Ausland                | *                                  | *            | Kgs 67/280/90                                   | 100 | Dry pin                              |  01-2 |   1-145 |
 |Panzerkampfwagen I (MG) Ausfuehrung C                 | 150101 to 1501140                  | VK 6.01      | Kgs 62/290/90                                   |  89 | Dry pin                              |  01-2 |   1-158 |
@@ -38,7 +38,7 @@
 ## Books
 
 | Title                                                                                                                             | Number |
-|-----------------------------------------------------------------------------------------------------------------------------------|--------|
+|-----------------------------------------------------------------------------------------------------------------------------------|-------:|
 | PANZER TRACTS No.1-2 Panzerkampfwagen I Kl.Pz.Bef.Wg. to VK 18.01                                                                 |   01-2 |
 | PANZER TRACTS No.2-2 Panzerkampfwagen II Ausf.G, H, J, L and M development and production from 1938 to 1943                       |   02-2 |
 | **                                                                                                                                |   02-3 |
