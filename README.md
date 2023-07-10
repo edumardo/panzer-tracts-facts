@@ -47,7 +47,7 @@
 |Panzerkampfwagen Panther (7.5cm) Ausfuehrung F                        | *                                                                                | Sd.Kfz.171   | Kgs 64/660/150                                  |       87 | Dry pin                                         |  05-4 |   5-264 |
 |"Marder II" Panzerjaeger II fuer 7.5cm Pak 40/2                       | 28001 to 29438                                                                   | Sd.Kfz.131   | Kgs 67/300/90                                   |      108 | Dry pin                                         |  07-2 |   7-135 |
 |Jagdpanzer IV Ausf.F                                                  | 320001 to 321000                                                                 | Sd.Kfz.162   | Kgs 61/400/120                                  |       99 | Dry pin                                         |  09-2 |  9-2-37 |
-|Panzer IV/70 (V)                                                      | 320651 to 321000, 329001 to 329700                                               | Sd.Kfz.162   | Kgs 61/400/120                                  |       99 | Dry pin                                         |  09-2 |  9-2-58 |
+|Panzer IV/70 (V)                                                      | 320651 to 321000 and 329001 to 329700                                            | Sd.Kfz.162   | Kgs 61/400/120                                  |       99 | Dry pin                                         |  09-2 |  9-2-58 |
 |Panzer IV/70 (A)                                                      | 120301 to 120600                                                                 | *            | Kgs 61/400/120                                  |       99 | Dry pin                                         |  09-2 |  9-2-59 |
 |Geschuetzwagen IVb fuer 10.5 cm le.FH.18/1 (Sf.)                      | 150631 to 150640                                                                 | Sd.Kfz.165/1 | Kgs 61/400/120                                  |       89 | Dry pin                                         |  10-1 |  10-1-9 |
 |"Wespe" Geschuetzwagen fuer 10.5 cm le.F.H.18/2 (Sf.)                 | 31001 to 32185                                                                   | Sd.Kfz.124   | Kgs 67/300/90                                   |      108 | Dry pin                                         |  10-1 | 10-1-21 |
@@ -55,9 +55,7 @@
 |le.F.H. 18/40/2 (Sf) auf Geschuetzwagen III/IV                        | *                                                                                | *            | Kgs 61/400/120                                  |      104 | Dry pin                                         |  10-1 | 10-1-43 |
 |"Hummel" Geschuetzwagewn III/IV fuer s.F.H. 18/1 (Sf.)                | 320001 to 321000 and 325001 to 325050                                            | Sd.Kfz.165   | Kgs 61/400/120                                  |      104 | Dry pin                                         |  10-1 | 10-1-79 | 
 
-
 *empty at source
-**pending
 
 ## Books
 
@@ -75,7 +73,5 @@
 |   05-3 | PANZER TRACTS No.5-3 Panzerkampfwagen "Panther" Ausfuehrung G                                                                                      | Completed |
 |   05-4 | PANZER TRACTS No.5-4 PAnzerkampfwagen Panther II and Panther Ausfuehrung F                                                                         | Completed |
 |   07-2 | PANZER TRACTS No.7-2 Panzerjaeger (7.62cm F.K.(r) auf gp.Sfl. to Marder 38T) development and employment from 1941 and 1943                         | Pending   |
-|   09-2 | PANZER TRACTS No.9-2 Jagdpanzer - Jagdpanzer IV, Panzer IV/70(V) and Panzer IV/70(A) development and production from 1943 to 1945                  | Pending   |
+|   09-2 | PANZER TRACTS No.9-2 Jagdpanzer - Jagdpanzer IV, Panzer IV/70(V) and Panzer IV/70(A) development and production from 1943 to 1945                  | Completed |
 |   10-1 | PANZER TRACTS No.10-1 Artillerie Selbstafahrlafetten from Pz.Sfl.IVb to Hummel-Wespe                                                               | Completed |
-
-**pending
