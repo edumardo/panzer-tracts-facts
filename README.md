@@ -54,6 +54,7 @@
 |"Heuschrecke IVb" 10.5 cm le.F.H 18/6 (Sf.) auf Geschuetzwagen III/IV | *                                                                                | *            | Kgs 61/400/120                                  |      107 | Dry pin                                         |  10-1 | 10-1-33 |
 |le.F.H. 18/40/2 (Sf) auf Geschuetzwagen III/IV                        | *                                                                                | *            | Kgs 61/400/120                                  |      104 | Dry pin                                         |  10-1 | 10-1-43 |
 |"Hummel" Geschuetzwagewn III/IV fuer s.F.H. 18/1 (Sf.)                | 320001 to 321000 and 325001 to 325050                                            | Sd.Kfz.165   | Kgs 61/400/120                                  |      104 | Dry pin                                         |  10-1 | 10-1-79 | 
+|Panzerkampfwagen 38 (t) Ausf.A to G and S                             | 1 - 1526                                                                         | N/A          | N/A                                             |       93 | Dry pin 293 mm wide with 104 mm pitch           |    18 |   18-15 |
 
 *empty at source
 
@@ -73,5 +74,7 @@
 |   05-3 | PANZER TRACTS No.5-3 Panzerkampfwagen "Panther" Ausfuehrung G                                                                                      | Completed |
 |   05-4 | PANZER TRACTS No.5-4 PAnzerkampfwagen Panther II and Panther Ausfuehrung F                                                                         | Completed |
 |   07-2 | PANZER TRACTS No.7-2 Panzerjaeger (7.62cm F.K.(r) auf gp.Sfl. to Marder 38T) development and employment from 1941 and 1943                         | Pending   |
+|   08-1 | PANZER TRACTS No.8-1 Sturmpanzer - Sturminfanteriegeschütz 33, Sturmpanzer and Munitionspanzer development and production from 1942 to 1945        | Completed |
 |   09-2 | PANZER TRACTS No.9-2 Jagdpanzer - Jagdpanzer IV, Panzer IV/70(V) and Panzer IV/70(A) development and production from 1943 to 1945                  | Completed |
 |   10-1 | PANZER TRACTS No.10-1 Artillerie Selbstafahrlafetten from Pz.Sfl.IVb to Hummel-Wespe                                                               | Completed |
+|   18   | PANZER TRACTS No.18 Panzerkampfwagen 38 (t) Ausf.A to G und S Production, Modification, and Operational history from 1939 to 1943                  | Completed |
