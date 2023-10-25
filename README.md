@@ -24,9 +24,11 @@
 |Panzerkampfwagen II Ausfuehrung J                                     | 150201 to 150230                                                                 | Vk 16.01     | Kgs 61/500/160                                  |       53 | *                                               |  02-02|  2-2-46 |
 |Panzerkampfwagen II Ausf.B                                            | 27101 to 27250                                                                   | Sd.Kfz.122   | Kgs 67/300/90                                   |      108 | Dry pin, 285mm wide with 90mm pitch             |  02-3 |  2-3-39 |
 |Panzerkampfwagen III (3.7 cm) Ausf.A                                  | 60101 to 60110                                                                   | Sd.Kfz.141   | Kgs 6109/380/120                                |       96 | Dry pin, 360mm wide with 120mm pitch            |  03-1 |    3-39 |
-|Panzerkampfwagen III (3.7 cm) Ausf.B                                  | 60201 to 60215                                                                   | Sd.Kfz.141   | Kgs 6109/380/120                                |       96 | Dry pin, 360mm wide with 12mmm pitch            |  03-1 |    3-44 |
-|Panzerkampfwagen III (3.7 cm) Ausf.C                                  | 60301 to 60315                                                                   | Sd.Kfz.141   | Kgs 6109/380/120                                |       96 | Dry pin, 360mm wide with 12mmm pitch            |  03-1 |    3-45 |
-|Panzerkampfwagen III (3.7 cm) Ausf.D                                  | 60316 to 60340                                                                   | Sd.Kfz.141   | Kgs 6109/380/120                                |       96 | Dry pin, 360mm wide with 12mmm pitch            |  03-1 |    3-61 |
+|Panzerkampfwagen III (3.7 cm) Ausf.B                                  | 60201 to 60215                                                                   | Sd.Kfz.141   | Kgs 6109/380/120                                |       96 | Dry pin, 360mm wide with 120mm pitch            |  03-1 |    3-44 |
+|Panzerkampfwagen III (3.7 cm) Ausf.C                                  | 60301 to 60315                                                                   | Sd.Kfz.141   | Kgs 6109/380/120                                |       96 | Dry pin, 360mm wide with 120mm pitch            |  03-1 |    3-45 |
+|Panzerkampfwagen III (3.7 cm) Ausf.D                                  | 60316 to 60340                                                                   | Sd.Kfz.141   | Kgs 6109/380/120                                |       96 | Dry pin, 360mm wide with 120mm pitch            |  03-1 |    3-61 |
+|Panzerkampfwagen III (3.7 cm) Ausf.E, F, und G                        | 60401 to 65950                                                                   | Sd.Kfz.141   | Kgs 6111/380/120                                |       93 | Dry pin, 360mm wide with 120mm pitch            |  03-2 |  3-2-15 |
+|Panzerkampfwagen III (5 cm) Ausf.H                                    | 66001 to 66500                                                                   | Sd.Kfz.141   | Kgs 61/400/120                                  |       93 | Dry pin, 380mm wide with 120mm pitch            |  03-2 |  3-2-84 |
 |Neubau-Panzerkampfwagen IV (3.7 cm & 7.5 cm)                          | 3 to 5                                                                           | *            | Kgs 61/380/120                                  |      118 | Dry pin                                         |    04 |     4-8 |
 |Grosstraktor Daimler-Benz Nr.41 & 42                                  | *                                                                                | *            | *                                               |        * | Steel 380 wide                                  |    04 |     4-4 |
 |Grosstraktor Daimler-Benz Nr.43 & 44                                  | *                                                                                | *            | *                                               |        * | Rubber 380 wide                                 |    04 |     4-4 |
@@ -60,21 +62,22 @@
 
 ## Books
 
-| Number | Title                                                                                                                                              | Status    |
-|-------:|----------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-|   01-1 | PANZER TRACTS No.1-1 Panzerkampfwagen I Kleintraktor to Ausf.B                                                                                     | Completed |
-|   01-2 | PANZER TRACTS No.1-2 Panzerkampfwagen I Kl.Pz.Bef.Wg. to VK 18.01                                                                                  | Completed |
-|   02-1 | PANZER TRACTS No.3-1 Panzerkampfwagen II Ausf.a/1, a/2, a/3, b, c, A,B, and C development and production from 1934 to 1940                         | Completed |
-|   02-2 | PANZER TRACTS No.2-2 Panzerkampfwagen II Ausf.G, H, J, L and M development and production from 1938 to 1943                                        | Completed |
-|   02-3 | PANZER TRACTS No.2-3 Panzerkampfwagen II Ausf.D, E and F development and production from 1937 to 1942                                              | Completed |
-|   03-1 | PANZER TRACTS No.3-1 Panzerkampfwagen III Ausf.A, B,C, and D development and procution fron 1934 to 1938 plus the Leichttraktor and Kurpp's M.K.A. | Completed |
-|   04   | PANZER TRACTS No.4 Panzerkampfwagen IV Grosstraktor to Panzerbefehlswagen                                                                          | Completed | 
-|   05-1 | PANZER TRACTS No.5-1 Panzerkampfwagen "Panther" Ausfuehrung D with Versuchs-Serie Panther, Fgst.Nr.V2                                              | Completed |
-|   05-2 | PANZER TRACTS No.5-2 Panzerkampfwagen "Panther" Ausfuehrung A                                                                                      | Completed |
-|   05-3 | PANZER TRACTS No.5-3 Panzerkampfwagen "Panther" Ausfuehrung G                                                                                      | Completed |
-|   05-4 | PANZER TRACTS No.5-4 PAnzerkampfwagen Panther II and Panther Ausfuehrung F                                                                         | Completed |
-|   07-2 | PANZER TRACTS No.7-2 Panzerjaeger (7.62cm F.K.(r) auf gp.Sfl. to Marder 38T) development and employment from 1941 and 1943                         | Pending   |
-|   08-1 | PANZER TRACTS No.8-1 Sturmpanzer - Sturminfanteriegeschütz 33, Sturmpanzer and Munitionspanzer development and production from 1942 to 1945        | Completed |
-|   09-2 | PANZER TRACTS No.9-2 Jagdpanzer - Jagdpanzer IV, Panzer IV/70(V) and Panzer IV/70(A) development and production from 1943 to 1945                  | Completed |
-|   10-1 | PANZER TRACTS No.10-1 Artillerie Selbstafahrlafetten from Pz.Sfl.IVb to Hummel-Wespe                                                               | Completed |
-|   18   | PANZER TRACTS No.18 Panzerkampfwagen 38 (t) Ausf.A to G und S Production, Modification, and Operational history from 1939 to 1943                  | Completed |
+| Number | Title                                                                                                                                               | Status    |
+|-------:|-----------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
+|   01-1 | PANZER TRACTS No.1-1 Panzerkampfwagen I Kleintraktor to Ausf.B                                                                                      | Completed |
+|   01-2 | PANZER TRACTS No.1-2 Panzerkampfwagen I Kl.Pz.Bef.Wg. to VK 18.01                                                                                   | Completed |
+|   02-1 | PANZER TRACTS No.3-1 Panzerkampfwagen II Ausf.a/1, a/2, a/3, b, c, A,B, and C development and production from 1934 to 1940                          | Completed |
+|   02-2 | PANZER TRACTS No.2-2 Panzerkampfwagen II Ausf.G, H, J, L and M development and production from 1938 to 1943                                         | Completed |
+|   02-3 | PANZER TRACTS No.2-3 Panzerkampfwagen II Ausf.D, E and F development and production from 1937 to 1942                                               | Completed |
+|   03-1 | PANZER TRACTS No.3-1 Panzerkampfwagen III Ausf.A, B, C, and D development and procution fron 1934 to 1938 plus the Leichttraktor and Kurpp's M.K.A. | Completed |
+|   03-2 | PANZER TRACTS No.3-2 Panzerkampfwagen III Ausf.E, F, G, and H development and procution fron 1938 to 1941                                           | Completed |
+|   04   | PANZER TRACTS No.4 Panzerkampfwagen IV Grosstraktor to Panzerbefehlswagen                                                                           | Completed | 
+|   05-1 | PANZER TRACTS No.5-1 Panzerkampfwagen "Panther" Ausfuehrung D with Versuchs-Serie Panther, Fgst.Nr.V2                                               | Completed |
+|   05-2 | PANZER TRACTS No.5-2 Panzerkampfwagen "Panther" Ausfuehrung A                                                                                       | Completed |
+|   05-3 | PANZER TRACTS No.5-3 Panzerkampfwagen "Panther" Ausfuehrung G                                                                                       | Completed |
+|   05-4 | PANZER TRACTS No.5-4 PAnzerkampfwagen Panther II and Panther Ausfuehrung F                                                                          | Completed |
+|   07-2 | PANZER TRACTS No.7-2 Panzerjaeger (7.62cm F.K.(r) auf gp.Sfl. to Marder 38T) development and employment from 1941 and 1943                          | Pending   |
+|   08-1 | PANZER TRACTS No.8-1 Sturmpanzer - Sturminfanteriegeschütz 33, Sturmpanzer and Munitionspanzer development and production from 1942 to 1945         | Completed |
+|   09-2 | PANZER TRACTS No.9-2 Jagdpanzer - Jagdpanzer IV, Panzer IV/70(V) and Panzer IV/70(A) development and production from 1943 to 1945                   | Completed |
+|   10-1 | PANZER TRACTS No.10-1 Artillerie Selbstafahrlafetten from Pz.Sfl.IVb to Hummel-Wespe                                                                | Completed |
+|   18   | PANZER TRACTS No.18 Panzerkampfwagen 38 (t) Ausf.A to G und S Production, Modification, and Operational history from 1939 to 1943                   | Completed |
