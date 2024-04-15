@@ -57,6 +57,7 @@
 |le.F.H. 18/40/2 (Sf) auf Geschuetzwagen III/IV                        | *                                                                                | *            | Kgs 61/400/120                                  |      104 | Dry pin                                         |  10-1 | 10-1-43 |
 |"Hummel" Geschuetzwagewn III/IV fuer s.F.H. 18/1 (Sf.)                | 320001 to 321000 and 325001 to 325050                                            | Sd.Kfz.165   | Kgs 61/400/120                                  |      104 | Dry pin                                         |  10-1 | 10-1-79 | 
 |Panzerkampfwagen 38 (t) Ausf.A to G and S                             | 1 - 1526                                                                         | N/A          | N/A                                             |       93 | Dry pin 293 mm wide with 104 mm pitch           |    18 |   18-15 |
+|Tiger (P) Panzerkampfwagen VI P (8.8 cm  Kw.K3.6 (L/56))              | 150001 - 150100                                                                  | Sd.Kfz.181   | Kgs 62/600/130 or Kgs 62/640/130                |      109 | Dry pin                                         |       |      60 |
 
 *empty at source
 
@@ -81,3 +82,4 @@
 |   09-2 | PANZER TRACTS No.9-2 Jagdpanzer - Jagdpanzer IV, Panzer IV/70(V) and Panzer IV/70(A) development and production from 1943 to 1945                   | Completed |
 |   10-1 | PANZER TRACTS No.10-1 Artillerie Selbstafahrlafetten from Pz.Sfl.IVb to Hummel-Wespe                                                                | Completed |
 |   18   | PANZER TRACTS No.18 Panzerkampfwagen 38 (t) Ausf.A to G und S Production, Modification, and Operational history from 1939 to 1943                   | Completed |
+|        | PANZER TRACTS Panzerkampfwagen VI P (Sd.Kfz.181) The history of the Porsche Typ 100and 101 also known as the Leopard and Tiger (P)                  | Completed |
