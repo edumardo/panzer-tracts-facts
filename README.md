@@ -83,3 +83,4 @@
 |   10-1 | PANZER TRACTS No.10-1 Artillerie Selbstafahrlafetten from Pz.Sfl.IVb to Hummel-Wespe                                                                | Completed |
 |   18   | PANZER TRACTS No.18 Panzerkampfwagen 38 (t) Ausf.A to G und S Production, Modification, and Operational history from 1939 to 1943                   | Completed |
 |        | PANZER TRACTS Panzerkampfwagen VI P (Sd.Kfz.181) The history of the Porsche Typ 100and 101 also known as the Leopard and Tiger (P)                  | Completed |
+
