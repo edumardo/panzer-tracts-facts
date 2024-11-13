@@ -59,6 +59,7 @@
 |Panzerkampfwagen 38 (t) Ausf.A to G and S                             | 1 - 1526                                                                         | N/A          | N/A                                             |       93 | Dry pin 293 mm wide with 104 mm pitch           |    18 |   18-15 |
 |Tiger (P) Panzerkampfwagen VI P (8.8 cm  Kw.K3.6 (L/56))              | 150001 - 150100                                                                  | Sd.Kfz.181   | Kgs 62/600/130 or Kgs 62/640/130                |      109 | Dry pin                                         |       |      60 |
 |Leitche Zugkraftwagen 1 to (Sd.Kfz.10) Ausf.A und B D 7 Fahrgestell   | 100001 - 703500                                                                  | Sd.Kfz.10    | Zpw.51/240/160                                  |       41 | *                                               |  22-1 | 22-1-28 |
+| Leitche Zugkraftwagen 3 to (Sd.Kfz.11) HL kl 6 and H kl 6 Fahrgestell| 320041- and 795001-                                                              | Sd.Kfz.11    | Zgw.50/280/140                                  |  55 + 56 | 55 left, 56 right                               |  22-2 | 22-2-32 |
 
 *empty at source
 
@@ -84,5 +85,6 @@
 |   10-1 | PANZER TRACTS No.10-1 Artillerie Selbstafahrlafetten from Pz.Sfl.IVb to Hummel-Wespe                                                                | Completed |
 |   18   | PANZER TRACTS No.18 Panzerkampfwagen 38 (t) Ausf.A to G und S Production, Modification, and Operational history from 1939 to 1943                   | Completed |
 |   22-1 | PANZER TRACTS No.22-1 Leitchter Zugkraftwagen 1 t (Sd.Kfz.10) Ausf.A und B and variants development and production from 1935 to 1954                | Completed |
+|   22-2 | PANZER TRACTS No.22-2 Leichhter Zugkraftwagen 3 t (Sd.Kfz.11) and variants development and production from 1934 to 1945                             | Completed |
 |        | PANZER TRACTS Panzerkampfwagen VI P (Sd.Kfz.181) The history of the Porsche Typ 100and 101 also known as the Leopard and Tiger (P)                  | Completed |
 
