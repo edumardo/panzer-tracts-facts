@@ -58,7 +58,7 @@ Incomplete or doubtful numbers are indicated:
 | WH 1446974     | With Raupenschlepper Ost on the Eastern Front |
 | WH xx97818     | With Raupenschlepper Ost on the Eastern Front |
 | WH 294853      | With Raupenschlepper Ost on the Eastern Front |
-| WH 296070.     | https://www.facebook.com/share/p/1AKXN3ipZc/  |
+| WH 296070      | https://www.facebook.com/share/p/1AKXN3ipZc/  |
 
 Bundesarchiv searchs:
 
