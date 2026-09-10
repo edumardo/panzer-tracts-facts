@@ -10,13 +10,13 @@ Extract of `Sturmgeschuetz Series with Fgst.Nr.` from `PANZER TRACTS No.23 Panze
 
 Assembly plant By radio:
 
-* 2 radios (4):
+* 2 radios, FU 5 and FU 2 (4 vehicles):
     * 93214 Alkett
     * 93263 Alkett
     * 95767 Miag
     * 95774 Miag
 
-* 1 radio (6):
+* 1 radio, FU 5 (6 vehicles):
     * 93205 Alkett
     * 93211 Alkett
     * 93225 Alkett
@@ -26,5 +26,5 @@ Assembly plant By radio:
 
 Fgst.Nr. by assembly plant
 
-* Alkett (7): 93214, 93263, 93205, 93211, 93225, 93227, 93241
-* Miag (3): 95767, 95774, 95783
+* Alkett (7 vehicles): 93214, 93263, 93205, 93211, 93225, 93227, 93241
+* Miag (3 vehicles): 95767, 95774, 95783
