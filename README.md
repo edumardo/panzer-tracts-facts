@@ -166,3 +166,43 @@ Source: https://www.panzertracts.com/the-complete-list-of-panzer-tracts/
 |        | Rommel’s Funnies Pz.II – 7.5cm Kan. L/41 auf Zgkw\.5t (HKP902) 7.62 cm F.K.) auf gp. Sfl. (Sonderkraftfahrzeug 6/3) 15 cm s.I.G.33 B Sfl. Lg.s.F.H.13 (Sfl.) Sfl. Auf Lorraine-Schlepper Landwasserchlepper | Pending   |
 |        | Berthas Big Brother Karl-Gerät (60cm) & (54 cm)                                                                                                                                                             | Pending   |
 |        | Dreaded Threat The 8.8 cm Flak 18/36/37 in the Anti-Tank Role                                                                                                                                               | Pending   |
+
+## German tracks designation
+
+Source: https://www.facebook.com/groups/PanzerFacts/posts/1405635092904511/ (Panzer Fakten FB group)
+
+German tracks were designated as follows:
+ - construction type
+ - material used
+ - connection between links
+
+Regarding construction type:
+ - K = fast running track for motor vehicles (unlike agricultural tractors)
+ - S = Six-wheeled track for multi-axle driven vehicles
+ - Z = tracks for halftrack vehicles
+ - L = tracks for agricultural tractors
+ - P = test tracks (roadway)
+
+Regarding material used:
+ - g = steel castings of all alloys
+ - p = forged steel, drop forged steel
+ - b = sheet steel
+ - t = malleable cast iron
+ - d = duraluminium
+ - ge = cloth fabric
+ - s = silumin
+
+Regarding connection:
+ - no letter: normal bearing. (Bolt and bush without lubrication)
+ - s = rotating bolts
+ - w = roller bearings (with lubrication and sealing)
+ - gu = rubber seals
+ - b = rotating bushing
+
+The numbering:
+ - Type
+ - Width
+ - Spacing
+
+There is an exception to this in the form of the Gg 24/660/300 track, this is thought to be a designation indicating a test version.
+(Panzerketten: Die Gleisketten der deutschen Kettenfahrzeuge des Zweiten Weltkriegs - Dr. Peter Schwarzmann)
